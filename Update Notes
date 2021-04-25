@@ -1,3 +1,15 @@
+[1.0.3]
+    ['Fixed'] = {
+        '- Selecting Players, Was Not Refreshing';
+    };
+    ['Added'] = {
+        '+ Auto Lock Saved';
+        '   (Champions owned, that are in Saved List, will be Auto Locked)';
+        '+ Access to Tournament Dimension, (Only Few function)'
+    };
+    ['ReWorked'] = {
+        '= Auto Sell Champions, (Should be more efficient and less buggy now)';
+    };
 [1.0.2]
     ['Fixed'] = {
         '- Typo in AutoQuest, throwing an error and crashing script';
