@@ -1,3 +1,11 @@
+[1.0.4]
+    ['Fixed'] = {
+        '- Synapse Update broke a function, had to change it to something else for it to work';
+    };
+    ['Added'] = {
+        '+ Collect Dragon Balls';
+        '   (If do not have Quest for it, wil turn off)';
+    };
 [1.0.3]
     ['Fixed'] = {
         '- Selecting Players, Was Not Refreshing';
