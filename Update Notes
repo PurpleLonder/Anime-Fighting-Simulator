@@ -1,4 +1,21 @@
-[1.0.4]
+['Version 1.0.5'] = {
+    ['Fixed'] = {
+        '- Collect Dragon Balls';
+    };
+    ['Added'] = {
+        '+ [Tournament] Auto Vote';
+        '+ [Tournament] Mode Selection';
+        '   (Whilst Auto Vote being ON, will automatically vote for selected Mode from Dropdown)';
+        '   (While AFK, use this to keep earning Competitive Points)';
+        '+ [Tournament] Back Spawn';
+        '+ [Tournament] Back Distance';
+        '   (Whilst BackSpawn being ON, estimating Distance from Character to Spawn, if over Set Distance from Slider, will TP you back)';
+        '   (Use this to TP back to Spawn, while being put into GameMode)';
+        '+ [Tournament] Juggernaut Reset';
+        '   (Whilst JugReset being ON, when you become Juggernaut, this will kill your character)';
+    };
+};
+['Version 1.0.4'] = {
     ['Fixed'] = {
         '- Synapse Update broke a function, had to change it to something else for it to work';
     };
@@ -6,7 +23,8 @@
         '+ Collect Dragon Balls';
         '   (If do not have Quest for it, wil turn off)';
     };
-[1.0.3]
+};
+['Version 1.0.3'] = {
     ['Fixed'] = {
         '- Selecting Players, Was Not Refreshing';
     };
@@ -18,12 +36,14 @@
     ['ReWorked'] = {
         '= Auto Sell Champions, (Should be more efficient and less buggy now)';
     };
-[1.0.2]
+};
+['Version 1.0.2'] = {
     ['Fixed'] = {
         '- Typo in AutoQuest, throwing an error and crashing script';
         '- Saving and Unsaving Champions';
     };
-[1.0.1]
+};
+['Version 1.0.1'] = {
     ['Fixed'] = {
         '- Open ClassShop';
         '- Dimension Teleports';
@@ -36,3 +56,4 @@
         '+ Custom Locations are still saved from every dimension, only access saved locations of dimension currently in';
         '+ Dropdown of Saved Locations, will load last location selected of dimension currently in';
     };
+};
