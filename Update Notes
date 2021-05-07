@@ -1,3 +1,14 @@
+['Version 1.1.2'] = {
+    ['ReWorked'] = {
+        '= Click NPCs';
+        '   (Does not spam click on NPCs anymore)';
+        '   (Clicks if meet Requirements to Recieve Next Quest)';
+        '   (Only clicks if Quest currently on is finished)';
+        '   (Turns off Click for NPC if Finished All Quests for that NPC)';
+        '';
+        '   (Can Keep turned ON, with no Dialogue Pop-Ups until able to click)';
+    };
+};
 ['Version 1.1.1'] = {
     ['Fixed'] = {
         '- Executing in Tournament';
