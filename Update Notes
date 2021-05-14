@@ -1,3 +1,19 @@
+['Version 1.1.4'] = {
+    ['ReWorked'] = {
+        '= Library';
+    };
+    ['Added'] = {
+        '+ Library Details, hover over any option of GUI to get information details of option hovering over';
+        '+ Moving Windows now go back to position last had them when re-opening GUI';
+        '+ TopButton, LeftClick will Show and Hide the Main GUI and closes the Settings GUI if open';
+        '+ TopButton, RightClick will Show and Hide the Settings GUI and closes the Main GUI if open';
+        '+ Settings GUI';
+        '+ Show and Hide for each Window created';
+        '+ Details Toggle, Show and Hide Details Window';
+        '+ Reset Windows Positions, when moved the Windows Positions of Main GUI, this will reset them';
+        '+ Shutdown, destroys the GUI and disables all functions of script';
+    };
+};
 ['Version 1.1.3'] = {
     ['Added'] = {
         '+ Intro Dialogue on script execute';
